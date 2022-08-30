@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>compas_29082022.svg</file>
+        <file>drawing.svg</file>
+        <file>compas_29082022.png</file>
+        <file>drawing.png</file>
+    </qresource>
+</RCC>
